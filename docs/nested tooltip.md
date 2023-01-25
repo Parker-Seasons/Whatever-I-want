@@ -1,0 +1,1 @@
+As you can see, this has led to a new note, much like the nested tool tips of CK3 or Vic3.
